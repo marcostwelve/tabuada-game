@@ -1,0 +1,24 @@
+<section>
+  <div class="container">
+    <h3>Acerte o resultado da tabuada</h3>
+    <form class="form">
+        <input type="number" class="form-input" disabled value="{{numero1}}"/>
+      <span>X</span>
+      <input type="number" class="form-input" disabled value="{{numero2}}"/>
+      <div>
+      </div>
+    </form>
+    <div class="result">
+      <input type="number"  class="form-input" [(ngModel)]="resposta"/>
+      <button class="form-button" (click)="reset()">Gerar outros números</button>
+
+      <div [ngClass]="esconder()">
+        <div *ngIf="ehIgual() then acertou, else errou"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<ng-template #acertou><p>Você acertou 😁😁😁</p></ng-template>
+
+<ng-template #errou><p>Você errou 😐😐😐</p></ng-template>
