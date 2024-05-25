@@ -8,9 +8,11 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-![image](https://github.com/marcostwelve/tabuada-game/assets/94411600/4b72f979-3178-4927-8a90-dc8e76e7774a)
+
+![image](https://github.com/marcostwelve/tabuada-game/assets/94411600/ce369449-5a58-41e2-aa69-64cb75191bb4)
+
 <br/>
 
 
@@ -29,7 +31,9 @@ Gerador de senhas, é um app divertido, para te auxiliar com o a multiplicação
 - [visite o projeto online](https://project-tawny-eight.vercel.app/)
 
 
+## 🖋 Licença
 
+- Este projeto, está sob licença MIT
 
 # Configuração Angular
 
