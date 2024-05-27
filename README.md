@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Gerador de senhas, é um app divertido, para te auxiliar com o a multiplicação.
+Tabuada, é um app divertido, para te auxiliar com a multiplicação.
 
 - [visite o projeto online](https://project-tawny-eight.vercel.app/)
 
